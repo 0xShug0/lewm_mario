@@ -24,15 +24,13 @@ The main demo replays an existing trace up to a chosen point, then lets the mode
 This repo does **not** include:
 
 - FCEUX binaries
-- BizHawk
-- the Super Mario Bros. ROM (SHA256: F61548FDF1670CFFEFCC4F0B7BDCDD9EABA0C226E3B74F8666071496988248DE)
-- large local datasets, traces, checkpoints, or rendered demos
+- the Super Mario Bros. ROM 
+- large local datasets or checkpoints.
 
 You need to provide:
 
 - an FCEUX install directory containing `fceux64.exe`
-- a compatible Super Mario Bros. ROM
-- `.fm2` trace files under a local `traces/` directory
+- a compatible Super Mario Bros. ROM (SHA256: F61548FDF1670CFFEFCC4F0B7BDCDD9EABA0C226E3B74F8666071496988248DE)
 
 By default, the scripts expect:
 
