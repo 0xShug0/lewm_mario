@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual env / local tooling
+.venv/
+venv/
+.env
+
+# Local emulator installs and ROMs
+BizHawk/
+fceux/
+*.nes
+*.fds
+*.zip
+
+# Large local datasets and artifacts
+downloads_raw/
+traces/
+demo/
+*_preview/
+single_npz_preview/
+_debug_twr_frames/
+tmp_*_smoke/
+fceux_dataset_test/
+mario_dataset*/
+mario_runs/
+
+# Local debug / media output
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.json
+*.gd
+*.gdv
+*.meta
+*.job.lua
+*.tsv
+
+# Keep source docs tracked
+!README.md
+!requirements.txt

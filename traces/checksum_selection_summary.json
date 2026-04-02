@@ -1,0 +1,788 @@
+[
+  {
+    "file": "#1SMB TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\#1SMB TAS.fm2"
+  },
+  {
+    "file": "-1 stage ending_what.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\-1 stage ending_what.fm2"
+  },
+  {
+    "file": "05F5 C2 corrupted powerups.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\05F5 C2 corrupted powerups.fm2"
+  },
+  {
+    "file": "05F5 C2 playaround.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\05F5 C2 playaround.fm2"
+  },
+  {
+    "file": "1-1 7UP demo_HappyLee.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\1-1 7UP demo_HappyLee.fm2"
+  },
+  {
+    "file": "1-1 as Fire Mario TAS with RTA Rules.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\1-1 as Fire Mario TAS with RTA Rules.fm2"
+  },
+  {
+    "file": "10Walljumps_TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\10Walljumps_TAS.fm2"
+  },
+  {
+    "file": "10WJ.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\10WJ.fm2"
+  },
+  {
+    "file": "141presses2.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\141presses2.fm2"
+  },
+  {
+    "file": "141presses3.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\141presses3.fm2"
+  },
+  {
+    "file": "141presses4.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\141presses4.fm2"
+  },
+  {
+    "file": "141presses5.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\141presses5.fm2"
+  },
+  {
+    "file": "141presses6.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\141presses6.fm2"
+  },
+  {
+    "file": "4-2 playaround.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\4-2 playaround.fm2"
+  },
+  {
+    "file": "[TAS] NO L+R Super Mario Bros. warpless speedrun RTAtiming-18m 36s 878ms.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\[TAS] NO L+R Super Mario Bros. warpless speedrun RTAtiming-18m 36s 878ms.fm2"
+  },
+  {
+    "file": "[TAS] NO L+R Super Mario Bros. warpless speedrun RTAtiming-18m 37s 576ms.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\[TAS] NO L+R Super Mario Bros. warpless speedrun RTAtiming-18m 37s 576ms.fm2"
+  },
+  {
+    "file": "[TAS] Super Mario Bros (warpless) level 1.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\[TAS] Super Mario Bros (warpless) level 1.fm2"
+  },
+  {
+    "file": "_smb1_warped_v2.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\_smb1_warped_v2.fm2"
+  },
+  {
+    "file": "AEPLLG glitchless.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\AEPLLG glitchless.fm2"
+  },
+  {
+    "file": "AEPLLG improved.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\AEPLLG improved.fm2"
+  },
+  {
+    "file": "AISSON 4.40.937-PPUnknown.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\AISSON 4.40.937-PPUnknown.fm2"
+  },
+  {
+    "file": "aisson softlock.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\aisson softlock.fm2"
+  },
+  {
+    "file": "AISSON TAS optimized inputs to 8-4.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\AISSON TAS optimized inputs to 8-4.fm2"
+  },
+  {
+    "file": "anypercent.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\anypercent.fm2"
+  },
+  {
+    "file": "anytas-noblank.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\anytas-noblank.fm2"
+  },
+  {
+    "file": "DJ Incendration AEPLLG TAS v2.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\DJ Incendration AEPLLG TAS v2.fm2"
+  },
+  {
+    "file": "DOWN.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\DOWN.fm2"
+  },
+  {
+    "file": "ffpg 1-1.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\ffpg 1-1.fm2"
+  },
+  {
+    "file": "First Level Savage.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\First Level Savage.fm2"
+  },
+  {
+    "file": "Impossible Floor Clip (Vine + 2 Enemies in 1-2).fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Impossible Floor Clip (Vine + 2 Enemies in 1-2).fm2"
+  },
+  {
+    "file": "my own aepllg tas.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\my own aepllg tas.fm2"
+  },
+  {
+    "file": "nofpgtas.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\nofpgtas.fm2"
+  },
+  {
+    "file": "nofpgtas_updated.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\nofpgtas_updated.fm2"
+  },
+  {
+    "file": "NoL+R.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\NoL+R.fm2"
+  },
+  {
+    "file": "one glitch.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\one glitch.fm2"
+  },
+  {
+    "file": "Oraybeast v6.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Oraybeast v6.fm2"
+  },
+  {
+    "file": "pacifist coinless.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\pacifist coinless.fm2"
+  },
+  {
+    "file": "SANIC.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SANIC.fm2"
+  },
+  {
+    "file": "SMB AISSON RTA rules 4.42.002.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB AISSON RTA rules 4.42.002.fm2"
+  },
+  {
+    "file": "SMB AISSON RTA rules 4.42.018.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB AISSON RTA rules 4.42.018.fm2"
+  },
+  {
+    "file": "SMB AISSON warpless_1748.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB AISSON warpless_1748.fm2"
+  },
+  {
+    "file": "smb anti-pacifist warpless.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb anti-pacifist warpless.fm2"
+  },
+  {
+    "file": "smb anti-pacifist.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb anti-pacifist.fm2"
+  },
+  {
+    "file": "SMB any% TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB any% TAS.fm2"
+  },
+  {
+    "file": "SMB Daboss7173 First Tas.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB Daboss7173 First Tas.fm2"
+  },
+  {
+    "file": "SMB walljump brute-force.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB walljump brute-force.fm2"
+  },
+  {
+    "file": "SMB yy warpless resync.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB yy warpless resync.fm2"
+  },
+  {
+    "file": "SMB-crash-redatchyon2098.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB-crash-redatchyon2098.fm2"
+  },
+  {
+    "file": "SMB-no-castle-theme-until-world-8-redatchyon2098.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB-no-castle-theme-until-world-8-redatchyon2098.fm2"
+  },
+  {
+    "file": "SMB1 AISSON perfect inputs TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 AISSON perfect inputs TAS.fm2"
+  },
+  {
+    "file": "SMB1 AISSON TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 AISSON TAS.fm2"
+  },
+  {
+    "file": "SMB1 any% TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 any% TAS.fm2"
+  },
+  {
+    "file": "SMB1 glitchless TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 glitchless TAS.fm2"
+  },
+  {
+    "file": "Smb1 human theory TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Smb1 human theory TAS.fm2"
+  },
+  {
+    "file": "SMB1 optimized.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 optimized.fm2"
+  },
+  {
+    "file": "smb1 playaround2.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb1 playaround2.fm2"
+  },
+  {
+    "file": "smb1 tas glitchless pwupless.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb1 tas glitchless pwupless.fm2"
+  },
+  {
+    "file": "SMB1 TAS through 8-1.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 TAS through 8-1.fm2"
+  },
+  {
+    "file": "SMB1 TAS through last input.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 TAS through last input.fm2"
+  },
+  {
+    "file": "smb1 tas.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb1 tas.fm2"
+  },
+  {
+    "file": "SMB1 update.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 update.fm2"
+  },
+  {
+    "file": "SMB1 with AISSON TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1 with AISSON TAS.fm2"
+  },
+  {
+    "file": "SMB1-45403-updated.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1-45403-updated.fm2"
+  },
+  {
+    "file": "SMB1-firemario1-1.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1-firemario1-1.fm2"
+  },
+  {
+    "file": "SMB1_no_wrong_warp_DJ,NTA.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1_no_wrong_warp_DJ,NTA.fm2"
+  },
+  {
+    "file": "smb1_warplessnoleft_NotThinkAnything.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb1_warplessnoleft_NotThinkAnything.fm2"
+  },
+  {
+    "file": "smb1_warps,Pacifist_NotThinkAnything.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb1_warps,Pacifist_NotThinkAnything.fm2"
+  },
+  {
+    "file": "SMB1_warps.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1_warps.fm2"
+  },
+  {
+    "file": "SMB1AEPLLG+GIIIVYWarpless_TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1AEPLLG+GIIIVYWarpless_TAS.fm2"
+  },
+  {
+    "file": "smb1j.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb1j.fm2"
+  },
+  {
+    "file": "SMB1TAS01.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1TAS01.fm2"
+  },
+  {
+    "file": "SMB1TEYIUT+EATSSY_TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1TEYIUT+EATSSY_TAS.fm2"
+  },
+  {
+    "file": "SMB1warps.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB1warps.fm2"
+  },
+  {
+    "file": "SMB_45731_Aknell.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_45731_Aknell.fm2"
+  },
+  {
+    "file": "smb_aisson_1_warp_10.09.213.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb_aisson_1_warp_10.09.213.fm2"
+  },
+  {
+    "file": "SMB_AISSON_4.40.904.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_AISSON_4.40.904.fm2"
+  },
+  {
+    "file": "SMB_AISSON_RTA_4.41.902.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_AISSON_RTA_4.41.902.fm2"
+  },
+  {
+    "file": "SMB_AISSON_RTA_4.41.919.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_AISSON_RTA_4.41.919.fm2"
+  },
+  {
+    "file": "SMB_AISSON_warpless.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_AISSON_warpless.fm2"
+  },
+  {
+    "file": "SMB_AISSON_warpless_electricpants_ppunknown.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_AISSON_warpless_electricpants_ppunknown.fm2"
+  },
+  {
+    "file": "SMB_BowserButts_HappyLee.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_BowserButts_HappyLee.fm2"
+  },
+  {
+    "file": "SMB_NoLeft_TAS_HappyLee, Kriller37, Mars608 & KFCMario.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_NoLeft_TAS_HappyLee, Kriller37, Mars608 & KFCMario.fm2"
+  },
+  {
+    "file": "smb_pigoap_improved.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smb_pigoap_improved.fm2"
+  },
+  {
+    "file": "SMB_TEYIUT_AEPLLG.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMB_TEYIUT_AEPLLG.fm2"
+  },
+  {
+    "file": "SMBAllItems-WIP-5-2.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMBAllItems-WIP-5-2.fm2"
+  },
+  {
+    "file": "SMBwalkathon.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SMBwalkathon.fm2"
+  },
+  {
+    "file": "smbwarpedbysullyrox.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smbwarpedbysullyrox.fm2"
+  },
+  {
+    "file": "smbwarpedwalkathonbysullyrox.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smbwarpedwalkathonbysullyrox.fm2"
+  },
+  {
+    "file": "smbwarpsbysullyrox.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\smbwarpsbysullyrox.fm2"
+  },
+  {
+    "file": "sta-v3.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\sta-v3.fm2"
+  },
+  {
+    "file": "STAGEOWarpless_TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\STAGEOWarpless_TAS.fm2"
+  },
+  {
+    "file": "STAGEOwarps_TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\STAGEOwarps_TAS.fm2"
+  },
+  {
+    "file": "stc-supermariobros,smallfire,rta,warped.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\stc-supermariobros,smallfire,rta,warped.fm2"
+  },
+  {
+    "file": "Sullysmb1AnyPercent.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Sullysmb1AnyPercent.fm2"
+  },
+  {
+    "file": "Super Mario Bros Freerun.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros Freerun.fm2"
+  },
+  {
+    "file": "Super Mario Bros. (Japan, USA).fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. (Japan, USA).fm2"
+  },
+  {
+    "file": "Super Mario Bros. (JU) [!]-1.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. (JU) [!]-1.fm2"
+  },
+  {
+    "file": "Super Mario Bros. (World)-0.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. (World)-0.fm2"
+  },
+  {
+    "file": "Super Mario Bros. (World)-4.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. (World)-4.fm2"
+  },
+  {
+    "file": "Super Mario Bros. (World).fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. (World).fm2"
+  },
+  {
+    "file": "Super Mario Bros. - Warpless - TAS by AlexPivot.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. - Warpless - TAS by AlexPivot.fm2"
+  },
+  {
+    "file": "Super Mario Bros. No Left 5-2.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. No Left 5-2.fm2"
+  },
+  {
+    "file": "Super Mario Bros. Warpless.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros. Warpless.fm2"
+  },
+  {
+    "file": "Super Mario Bros.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario Bros.fm2"
+  },
+  {
+    "file": "Super Mario.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super Mario.fm2"
+  },
+  {
+    "file": "Super_Mario_Bros._(JU)_(PRG0)_[!]1137F.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super_Mario_Bros._(JU)_(PRG0)_[!]1137F.fm2"
+  },
+  {
+    "file": "Super_Mario_Bros._fast_flower_grab.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super_Mario_Bros._fast_flower_grab.fm2"
+  },
+  {
+    "file": "Super_Mario_Bros._JU_PRG0_.FM2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super_Mario_Bros._JU_PRG0_.FM2"
+  },
+  {
+    "file": "Super_Mario_Bros_crash_1121F.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super_Mario_Bros_crash_1121F.fm2"
+  },
+  {
+    "file": "Super_Mario_Bros_crash_1129F.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super_Mario_Bros_crash_1129F.fm2"
+  },
+  {
+    "file": "Super_Mario_Bros_crash_1158F.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super_Mario_Bros_crash_1158F.fm2"
+  },
+  {
+    "file": "Super_Mario_Bros_crash_1174F.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Super_Mario_Bros_crash_1174F.fm2"
+  },
+  {
+    "file": "SuperMarioBros-LightSpike.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\SuperMarioBros-LightSpike.fm2"
+  },
+  {
+    "file": "supermariobros-warps-thegame22-4-54-032-trimmed.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\supermariobros-warps-thegame22-4-54-032-trimmed.fm2"
+  },
+  {
+    "file": "supermariobroswarpedbysullyrox.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\supermariobroswarpedbysullyrox.fm2"
+  },
+  {
+    "file": "TAS Anti-Pacifist.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\TAS Anti-Pacifist.fm2"
+  },
+  {
+    "file": "tas smb1_warped improvement.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\tas smb1_warped improvement.fm2"
+  },
+  {
+    "file": "teyiut-itspietrofelix-warps-v3.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\teyiut-itspietrofelix-warps-v3.fm2"
+  },
+  {
+    "file": "TEYIUT-itspietrofelix.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\TEYIUT-itspietrofelix.fm2"
+  },
+  {
+    "file": "TEYIUT.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\TEYIUT.fm2"
+  },
+  {
+    "file": "teyiutaisson.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\teyiutaisson.fm2"
+  },
+  {
+    "file": "Toms SMB1 TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Toms SMB1 TAS.fm2"
+  },
+  {
+    "file": "trying a new tas.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\trying a new tas.fm2"
+  },
+  {
+    "file": "Trying To Beat Klmz.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\Trying To Beat Klmz.fm2"
+  },
+  {
+    "file": "TWR.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\TWR.fm2"
+  },
+  {
+    "file": "UseAEPLLGandGIIIVYtosync,plz._TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\UseAEPLLGandGIIIVYtosync,plz._TAS.fm2"
+  },
+  {
+    "file": "warps 2001.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\warps 2001.fm2"
+  },
+  {
+    "file": "XZIUYS_TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\XZIUYS_TAS.fm2"
+  },
+  {
+    "file": "yy-smb1-full.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\yy-smb1-full.fm2"
+  },
+  {
+    "file": "ZeroCoinsWarps_TAS.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\ZeroCoinsWarps_TAS.fm2"
+  },
+  {
+    "file": "【TAS】NO L+R Super Mario Bros. warpless speedrun RTAtiming-18m 37s 926ms.fm2",
+    "status": "copied",
+    "romChecksum": "base64:jjYwGG411HcjG/j9UOVM3Q==",
+    "dest": "D:\\WM\\traces\\【TAS】NO L+R Super Mario Bros. warpless speedrun RTAtiming-18m 37s 926ms.fm2"
+  }
+]
