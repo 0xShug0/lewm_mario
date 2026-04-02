@@ -183,11 +183,3 @@ python demo_mario_goal_live_record.py --checkpoint mario_runs/run_lewm_mario/bes
 - The planner does **not** use rewards or RL.
 - Planning uses a target image and latent-distance cost only.
 
-## Publishing checklist
-
-Before pushing the repo:
-
-- keep source code, docs, and Lua bridge scripts
-- exclude emulator binaries, ROMs, datasets, checkpoints, and demo videos
-- verify your README commands match your local script defaults
-- make sure no private paths or local usernames remain in docs or code comments
