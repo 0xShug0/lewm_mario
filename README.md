@@ -25,7 +25,7 @@ This repo does **not** include:
 
 - FCEUX binaries
 - BizHawk
-- the Super Mario Bros. ROM
+- the Super Mario Bros. ROM (SHA256: F61548FDF1670CFFEFCC4F0B7BDCDD9EABA0C226E3B74F8666071496988248DE)
 - large local datasets, traces, checkpoints, or rendered demos
 
 You need to provide:
